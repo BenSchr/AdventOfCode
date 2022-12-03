@@ -1,4 +1,4 @@
-# AdventOfCode (currently 2021)
+# AdventOfCode (currently 2022)
 
 🎄🎄🎄 Ho Ho Ho 🎄🎄🎄
 
